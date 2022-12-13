@@ -1,6 +1,13 @@
-# Recursive Extension Changer
+# Recursive-Extension-Changer
+Filetype extension changer for raw datasets.
+* Quick and Efficient
+* Error Handlings
+* Supported All File Types
+  
 
-[1] Change Filetype to Another Filetype
-[2] All Filetype is Available
-[3] Quick and Efficient
+# Python Libraries used:
 
+* [1] Pyside-6
+* [2] OS
+* [3] tKinter
+* [4] time
