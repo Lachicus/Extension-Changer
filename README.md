@@ -11,3 +11,6 @@ Filetype extension changer for raw datasets.
 * [2] OS
 * [3] tKinter
 * [4] time
+
+# Download & Install:
+* Windows - https://rb.gy/ixchif
